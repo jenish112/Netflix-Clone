@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Welcome to **Project Netflix Clone**! I built this application in React JS and is hosted on Firebase. This app features user authentication with firebase as well as the firestore cloud storage database. This application is pulling movie data from an the IMDB movie API and displaying different categories. It features horizontal sliding and a featured selection. The useContext hook is also being implemented for app-wide state management.
+Welcome to **Project Netflix Clone**! I built this application in React JS and is hosted on Firebase. This app features user authentication with Firebase as well as the Firestore cloud storage database. This application pulls movie data from the IMDB movie API and displays different categories. It features horizontal sliding and a featured selection. The useContext hook is also being implemented for app-wide state management.
 
 ## Features
 
