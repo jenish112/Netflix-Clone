@@ -3,7 +3,8 @@
 <p align="center" width="100%">
   <img src="https://wdjenish.web.app/static/media/Netflix.35d70e3206a8e6d3180b.jpg" alt="Project Logo" height="200">
 </p>
-
+Live Demo: <a href ="https://netflix-clone-react-yt.web.app/" alt="Live Demo" />Link</a>
+  
 ## Introduction
 
 Welcome to **Project Netflix Clone**! I built this application in React JS and is hosted on Firebase. This app features user authentication with Firebase as well as the Firestore cloud storage database. This application pulls movie data from the IMDB movie API and displays different categories. It features horizontal sliding and a featured selection. The useContext hook is also being implemented for app-wide state management.
