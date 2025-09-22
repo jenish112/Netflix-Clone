@@ -1,7 +1,7 @@
 # Netflix Clone 
 
 <p align="center" width="100%">
-  <img src="https://wdjenish.web.app/static/media/Netflix.35d70e3206a8e6d3180b.jpg" alt="Project Logo" height="200">
+  <img src="https://github.com/jenish112/Netflix-Clone/blob/main/Dashboard%20SS.png" alt="Project Logo" height="400">
 </p>
 Live Demo: <a href ="https://netflix-clone-react-yt.web.app/" alt="Live Demo" />Link</a>
   
